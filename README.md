@@ -8,4 +8,5 @@ Appunti presi durante il corso di laurea triennale in ingegneria matematica al P
 # Bibliografia
 * Algebra lineare e geometria (E. Schlesinger)
 * Probability Essentials (J. Jacod, P. Protter)
+* Analisi 3 (G. Gilardi)
 * Equazioni a derivate parziali (S. Salsa)
